@@ -8,9 +8,4 @@
 - 🔭 I don't know whats to write so ye
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Schnoggy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&hide_border=true" />
-
-</details>
