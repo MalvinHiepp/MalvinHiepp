@@ -6,6 +6,8 @@
 ## I'm a Developer
 
 - 🖥 I'm a hobbyless fat sack
+- Nice languages to learn: Java, php, C#, python
+- It's not a language but HTML, CSS
 - 🔭 I don't know whats to write so ye
 
 <br />
