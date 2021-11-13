@@ -5,12 +5,8 @@
 
 ## I'm a Developer
 
+- 🖥 I'm a hobbyless fat sack
 - 🔭 I don't know whats to write so ye
+
 <br />
-
   <img align="left" alt="Schnoggy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&hide_border=true" />
-
-[website]: https://bunsy.net
-[twitter]: https://twitter.com/schnoggy3
-[youtube]: https://youtube.com/schnoggy
-[instagram]: https://instagram.com/cringe_schnotschky
