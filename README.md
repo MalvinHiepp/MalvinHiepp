@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical" alt="Schnoggy" /></p>
 
-<br>
+<p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical" alt="Schnoggy" /></p>
