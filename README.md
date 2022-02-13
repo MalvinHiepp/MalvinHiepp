@@ -12,12 +12,12 @@
 - It's not a language but HTML, CSS
 - 🔭 I don't know whats to write so ye
 
-##Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/593072039003160595)](https://discord.com/users/593072039003160595)
+## Presence
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/593072039003160595)](https://discord.com/users/593072039003160595)]
 
-##Contact me
+## Contact me
  [schnoggy@bunsy.net](mailto:schnoggy@bunsy.net)
 
-[!<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical" alt="Schnoggy"/>
+[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical)](https://github.com/schnoggy)
 
-[!<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical" alt="Schnoggy"/>
+[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical)](https://github.com/schnoggy)
