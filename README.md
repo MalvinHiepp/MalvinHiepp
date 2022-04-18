@@ -23,4 +23,4 @@
 
 [![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnoggy&show_icons=true&theme=radical)](https://github.com/schnoggy)
 
-[![GeoLocator Discordbots](https://top.gg/api/widget/962333791798575155.svg)(https://top.gg/bot/962333791798575155)
+[![GeoLocator Discordbots](https://top.gg/api/widget/962333791798575155.svg)](https://top.gg/bot/962333791798575155)
