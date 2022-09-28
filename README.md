@@ -13,7 +13,7 @@
 - 🔭 I don't know whats to write so ye
 
 ## Presence
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/277424389589303298)](https://discord.com/users/593072039003160595)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/593072039003160595)](https://discord.com/users/593072039003160595)
 
 [![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnoggy&layout=compact&theme=radical)](https://github.com/schnoggy)
 
