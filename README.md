@@ -1,6 +1,4 @@
-# Hi there, I'm Schnotschky 👋 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/schnoggy3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Schnoggy3&screen_name=Schnoggy3)
+# Hi there, I'm Malvin 👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedoctorde" alt="codedoctorde" /> </p>
 
@@ -12,8 +10,6 @@
 - Best Frameworks: React, Spring
 - 🔭 I don't know whats to write so ye
 
-[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnotschky&layout=compact&theme=radical)](https://github.com/Schnotschky)
+[![GitHub Satats](https://github-readme-stats.vercel.app/api/top-langs/?username=Schnotschky&layout=compact&theme=radical)](https://github.com/MalvinHiepp)
 
-[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnotschky&show_icons=true&theme=radical)](https://github.com/Schnotschky)
-
-[![GeoLocator Discordbots](https://top.gg/api/widget/962333791798575155.svg)](https://top.gg/bot/962333791798575155)
+[![GitHub Satats](https://github-readme-stats.vercel.app/api?username=Schnotschky&show_icons=true&theme=radical)](https://github.com/MalvinHiepp)
